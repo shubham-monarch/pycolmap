@@ -4,7 +4,12 @@
 #include "colmap/base/camera_models.h"
 #include "colmap/base/reconstruction.h"
 #include "colmap/controllers/incremental_mapper.h"
+//#include <colmap/sfm/incremental_mapper.h>
+
+
 #include "colmap/util/misc.h"
+
+
 
 using namespace colmap;
 
